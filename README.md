@@ -9,5 +9,4 @@
 * Paper 
 * Pastic
 
-### Authors
-* Elliot Eckholm 
+
